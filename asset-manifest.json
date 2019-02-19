@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-tutorial/static/css/main.8d01aa32.chunk.css",
-  "main.js": "/react-tutorial/static/js/main.e56b422e.chunk.js",
-  "main.js.map": "/react-tutorial/static/js/main.e56b422e.chunk.js.map",
-  "static/js/1.f4789f78.chunk.js": "/react-tutorial/static/js/1.f4789f78.chunk.js",
-  "static/js/1.f4789f78.chunk.js.map": "/react-tutorial/static/js/1.f4789f78.chunk.js.map",
-  "runtime~main.js": "/react-tutorial/static/js/runtime~main.d6d0aa42.js",
-  "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.d6d0aa42.js.map",
-  "static/css/main.8d01aa32.chunk.css.map": "/react-tutorial/static/css/main.8d01aa32.chunk.css.map",
-  "index.html": "/react-tutorial/index.html",
-  "precache-manifest.45f144b7349e7ef6750f3e535f92581a.js": "/react-tutorial/precache-manifest.45f144b7349e7ef6750f3e535f92581a.js",
-  "service-worker.js": "/react-tutorial/service-worker.js"
+  "main.css": "/phunlife/React-Form-Tuturial/static/css/main.8d01aa32.chunk.css",
+  "main.js": "/phunlife/React-Form-Tuturial/static/js/main.e56b422e.chunk.js",
+  "main.js.map": "/phunlife/React-Form-Tuturial/static/js/main.e56b422e.chunk.js.map",
+  "static/js/1.f4789f78.chunk.js": "/phunlife/React-Form-Tuturial/static/js/1.f4789f78.chunk.js",
+  "static/js/1.f4789f78.chunk.js.map": "/phunlife/React-Form-Tuturial/static/js/1.f4789f78.chunk.js.map",
+  "runtime~main.js": "/phunlife/React-Form-Tuturial/static/js/runtime~main.7ee70939.js",
+  "runtime~main.js.map": "/phunlife/React-Form-Tuturial/static/js/runtime~main.7ee70939.js.map",
+  "static/css/main.8d01aa32.chunk.css.map": "/phunlife/React-Form-Tuturial/static/css/main.8d01aa32.chunk.css.map",
+  "index.html": "/phunlife/React-Form-Tuturial/index.html",
+  "precache-manifest.a56ff2a2176bcb8136e5296e5786f081.js": "/phunlife/React-Form-Tuturial/precache-manifest.a56ff2a2176bcb8136e5296e5786f081.js",
+  "service-worker.js": "/phunlife/React-Form-Tuturial/service-worker.js"
 }
